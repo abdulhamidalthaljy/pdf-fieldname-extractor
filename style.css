@@ -1,0 +1,8 @@
+#output {
+  margin-top: 20px;
+  white-space: pre-wrap;
+  background-color: #f5f5f5;
+  padding: 10px;
+  border-radius: 4px;
+  overflow-x: auto;
+}
